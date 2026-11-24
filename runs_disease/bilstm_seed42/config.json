@@ -1,0 +1,5 @@
+{
+  "max_len": 128,
+  "model": "bilstm",
+  "seed": 42
+}

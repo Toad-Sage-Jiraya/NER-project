@@ -1,0 +1,5 @@
+{
+  "max_len": 128,
+  "model": "cnn_bilstm",
+  "seed": 7
+}

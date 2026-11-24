@@ -1,0 +1,5 @@
+{
+  "max_len": 128,
+  "model": "cnn_bigru_attn",
+  "seed": 42
+}

@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data & Datasets (never commit raw or large data)
+data/
+*.zip
+*.tar.gz
+*.rar
+
+# Model checkpoints (large weights)
+*.keras
+*.h5
+*.pt
+*.pth
+*.ckpt
+runs*/model.keras
+runs_*/**/model.keras
+
+# Logs & temp
+logs/
+*.log
+.vscode/
+.idea/
+.DS_Store

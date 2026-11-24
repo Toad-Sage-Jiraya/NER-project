@@ -1,0 +1,14 @@
+{
+  "token_accuracy": 0.9454490000435711,
+  "token_micro_precision_no_O": 0.695859872611465,
+  "token_micro_recall_no_O": 0.5579673135852911,
+  "token_micro_f1_no_O": 0.6193310657596371,
+  "entity_precision_strict": 0.5070118662351673,
+  "entity_recall_strict": 0.40869565217391307,
+  "entity_f1_strict": 0.4525758305247954,
+  "entity_precision_relaxed": 0.7761944677284157,
+  "entity_recall_relaxed": 0.7565217391304347,
+  "entity_f1_relaxed": 0.7662318516651528,
+  "ms_per_1000_tokens": 61.58614926315134,
+  "params": 1263806
+}
